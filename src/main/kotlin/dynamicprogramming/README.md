@@ -1,0 +1,65 @@
+# Dynamic Programming <a name="9"></a>
+<img src="https://img.shields.io/badge/Dynamic Programming-60-yellowgreen?style=for-the-badge" alt="Dynamic Programming">
+
+| Problem  | Solution |
+|-------------| --------- |
+| <a href="https://www.geeksforgeeks.org/coin-change-dp-7/">Coin Change Problem</a> |      |
+| <a href="https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/">Knapsack Problem</a> |      |
+| <a href="https://www.geeksforgeeks.org/binomial-coefficient-dp-9/">Binomial Coefficient Problem</a> |      |
+| <a href="https://www.geeksforgeeks.org/permutation-coefficient/">Permutation Coefficient Problem</a> |      |
+| <a href="https://www.geeksforgeeks.org/program-nth-catalan-number/">Program for nth Catalan Number</a> |      |
+| <a href="https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/">Matrix Chain Multiplication</a> |      |
+| <a href="https://www.geeksforgeeks.org/edit-distance-dp-5/">Edit Distance</a> |      |
+| <a href="https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1">Subset Sum Problem</a> |      |
+| <a href="https://www.geeksforgeeks.org/friends-pairing-problem/">Friends Pairing Problem</a> |      |
+| <a href="https://www.geeksforgeeks.org/gold-mine-problem">Gold Mine Problem</a> |      |
+| <a href="https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34">Assembly Line Scheduling Problem</a> |      |
+| <a href="https://www.geeksforgeeks.org/painting-fence-algorithm/">Painting the Fence problem</a> |      |
+| <a href="https://www.geeksforgeeks.org/maximize-the-number-of-segments-of-length-p-q-and-r/">Maximize The Cut Segments</a> |      |
+| <a href="https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/">Longest Common Subsequence</a> |      |
+| <a href="https://www.geeksforgeeks.org/longest-repeated-subsequence/">Longest Repeated Subsequence</a> |      |
+| <a href="https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/">Longest Increasing Subsequence</a> |      |
+| <a href="https://www.geeksforgeeks.org/space-optimized-solution-lcs">Space Optimized Solution of LCS</a> |      |
+| <a href="https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/">LCS (Longest Common Subsequence) of three strings</a> |      |
+| <a href="https://www.geeksforgeeks.org/maximum-sum-increasing-subsequence-dp-14/">Maximum Sum Increasing Subsequence</a> |      |
+| <a href="https://www.geeksforgeeks.org/count-subsequences-product-less-k">Count all subsequences having product less than K</a> |      |
+| <a href="https://www.geeksforgeeks.org/longest-subsequence-such-that-difference-between-adjacents-is-one/">Longest subsequence such that difference between adjacent is one</a> |      |
+| <a href="https://www.geeksforgeeks.org/maximum-subsequence-sum-such-that-no-three-are-consecutive/">Maximum subsequence sum such that no three are consecutive</a> |      |
+| <a href="https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/">Egg Dropping Problem</a> |      |
+| <a href="https://www.geeksforgeeks.org/maximum-length-chain-of-pairs-dp-20/">Maximum Length Chain of Pairs</a> |      |
+| <a href="https://www.geeksforgeeks.org/maximum-size-sub-matrix-with-all-1s-in-a-binary-matrix/">Maximum size square sub-matrix with all 1s</a> |      |
+| <a href="https://www.geeksforgeeks.org/maximum-sum-pairs-specific-difference/">Maximum sum of pairs with specific difference</a> |      |
+| <a href="https://www.geeksforgeeks.org/min-cost-path-dp-6/">Min Cost Path Problem</a> |      |
+| <a href="https://www.geeksforgeeks.org/maximum-difference-zeros-ones-binary-string/">Maximum difference of zeros and ones in binary string</a> |      |
+| <a href="https://www.geeksforgeeks.org/minimum-number-of-jumps-to-reach-end-of-a-given-array/">Minimum number of jumps to reach end</a> |      |
+| <a href="https://www.geeksforgeeks.org/minimum-cost-to-fill-given-weight-in-a-bag/">Minimum cost to fill given weight in a bag</a> |      |
+| <a href="https://www.geeksforgeeks.org/minimum-removals-array-make-max-min-k/">Minimum removals from array to make max –min &lt;= K</a> |      |
+| <a href="https://www.geeksforgeeks.org/longest-common-substring-dp-29/">Longest Common Substring</a> |      |
+| <a href="https://www.geeksforgeeks.org/count-number-ways-reach-given-score-game/">Count number of ways to reach a given score in a game</a> |      |
+| <a href="https://www.geeksforgeeks.org/count-balanced-binary-trees-height-h/">Count Balanced Binary Trees of Height h</a> |      |
+| <a href="https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/">LargestSum Contiguous Subarray [V>V>V>V IMP ]</a> |      |
+| <a href="https://www.geeksforgeeks.org/smallest-sum-contiguous-subarray/">Smallest sum contiguous subarray</a> |      |
+| <a href="https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/">Unbounded Knapsack (Repetition of items allowed)</a> |      |
+| <a href="https://www.geeksforgeeks.org/word-break-problem-dp-32/">Word Break Problem</a> |      |
+| <a href="https://www.geeksforgeeks.org/largest-independent-set-problem-dp-26/">Largest Independent Set Problem</a> |      |
+| <a href="https://www.geeksforgeeks.org/partition-problem-dp-18/">Partition problem</a> |      |
+| <a href="https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/">Longest Palindromic Subsequence</a> |      |
+| <a href="https://www.geeksforgeeks.org/count-palindromic-subsequence-given-string/">Count All Palindromic Subsequence in a given String</a> |      |
+| <a href="https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/">Longest Palindromic Substring</a> |      |
+| <a href="https://www.geeksforgeeks.org/longest-alternating-subsequence/">Longest alternating subsequence</a> |      |
+| <a href="https://www.geeksforgeeks.org/weighted-job-scheduling">Weighted Job Scheduling</a> |      |
+| <a href="https://www.geeksforgeeks.org/coin-game-winner-every-player-three-choices">Coin game winner where every player has three choices</a> |      |
+| <a href="https://www.geeksforgeeks.org/count-derangements-permutation-such-that-no-element-appears-in-its-original-position/">Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]</a> |      |
+| <a href="https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/">Maximum profit by buying and selling a share at most twice [ IMP ]</a> |      |
+| <a href="https://www.geeksforgeeks.org/optimal-strategy-for-a-game-dp-31/">Optimal Strategy for a Game</a> |      |
+| <a href="https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/">Optimal Binary Search Tree</a> |      |
+| <a href="https://www.geeksforgeeks.org/palindrome-partitioning-dp-17/">Palindrome Partitioning Problem</a> |      |
+| <a href="https://www.geeksforgeeks.org/word-wrap-problem-dp-19/">Word Wrap Problem</a> |      |
+| <a href="https://www.geeksforgeeks.org/mobile-numeric-keypad-problem/">Mobile Numeric Keypad Problem [ IMP ]</a> |      |
+| <a href="https://www.geeksforgeeks.org/boolean-parenthesization-problem-dp-37/">Boolean Parenthesization Problem</a> |      |
+| <a href="https://www.geeksforgeeks.org/largest-rectangular-sub-matrix-whose-sum-0">Largest rectangular sub-matrix whose sum is 0</a> |      |
+| <a href="https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/">Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]</a> |      |
+| <a href="https://www.geeksforgeeks.org/maximum-sum-rectangle-in-a-2d-matrix-dp-27/">Maximum sum rectangle in a 2D matrix</a> |      |
+| <a href="https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-k-times/">Maximum profit by buying and selling a share at most k times</a> |      |
+| <a href="https://www.geeksforgeeks.org/find-if-a-string-is-interleaved-of-two-other-strings-dp-33/">Find if a string is interleaved of two other strings</a> |      |
+| <a href="https://www.geeksforgeeks.org/maximum-length-chain-of-pairs-dp-20/">Maximum Length of Pair Chain</a> |      |

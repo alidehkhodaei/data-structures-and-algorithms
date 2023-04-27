@@ -1,2 +1,42 @@
-# Array
+# Arrays <a name="1"></a>
+<img src="https://img.shields.io/badge/Arrays-36-red?style=for-the-badge" alt="Arrays">
+
+| Problem  | Solution |
+|-------------| --------- |
+| <a href="https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/">Reverse the array</a> |      |
+| <a href="https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/">Find the maximum and minimum element in an array</a> |      |
+| <a href="https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array-set-2-expected-linear-time/">Find the “Kth” max and min element of an array</a> |      |
+| <a href="https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/">Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo</a> |      |
+| <a href="https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/">Move all the negative elements to one side of the array</a> |      |
+| <a href="https://www.geeksforgeeks.org/find-union-and-intersection-of-two-unsorted-arrays/">Find the Union and Intersection of the two sorted arrays.</a> |      |
+| <a href="https://www.geeksforgeeks.org/c-program-cyclically-rotate-array-one/">Write a program to cyclically rotate an array by one.</a> |      |
+| <a href="https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/">Find Largest sum contiguous Subarray [V. IMP]</a> |      |
+| <a href="https://www.geeksforgeeks.org/minimize-the-maximum-difference-between-the-heights/">Minimize the maximum difference between heights [V.IMP]</a> |      |
+| <a href="https://www.geeksforgeeks.org/minimum-number-jumps-reach-endset-2on-solution/">Minimum no. of Jumps to reach end of an array</a> |      |
+| <a href="https://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/">Find duplicate in an array of N+1 Integers</a> |      |
+| <a href="https://www.geeksforgeeks.org/merge-two-sorted-arrays/">Merge 2 sorted arrays without using Extra space.</a> |      |
+| <a href="https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/">Kadane’s Algo [V.V.V.V.V IMP]</a> |      |
+| <a href="https://www.geeksforgeeks.org/merging-intervals/">Merge Intervals</a> |      |
+| <a href="https://www.geeksforgeeks.org/find-the-next-lexicographically-greater-word-than-a-given-word/">Next Permutation</a> |      |
+| <a href="https://www.geeksforgeeks.org/counting-inversions/">Count Inversion</a> |      |
+| <a href="https://www.geeksforgeeks.org/best-time-to-buy-and-sell-stock/">Best time to buy and Sell stock</a> |      |
+| <a href="https://www.geeksforgeeks.org/count-pairs-with-given-sum/">Find all pairs on integer array whose sum is equal to given number</a> |      |
+| <a href="https://www.geeksforgeeks.org/find-common-elements-three-sorted-arrays/">Find common elements In 3 sorted arrays</a> |      |
+| <a href="https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/">Rearrange the array in alternating positive and negative items with O(1) extra space</a> |      |
+| <a href="https://www.geeksforgeeks.org/find-if-there-is-a-subarray-with-0-sum/">Find if there is any subarray with sum equal to 0</a> |      |
+| <a href="https://www.geeksforgeeks.org/factorial-large-number/">Find factorial of a large number</a> |      |
+| <a href="https://www.geeksforgeeks.org/maximum-product-subarray-set-3/">Find maximum product subarray</a> |      |
+| <a href="https://www.geeksforgeeks.org/longest-consecutive-subsequence/">Find longest consecutive subsequence</a> |      |
+| <a href="https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/">Given an array of size n and a number k, fin all elements that appear more than ” n/k ” times.</a> |      |
+| <a href="https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/">Maximum profit by buying and selling a share at most twice</a> |      |
+| <a href="https://www.geeksforgeeks.org/find-whether-an-array-is-subset-of-another-array-set-1/">Find whether an array is a subset of another array</a> |      |
+| <a href="https://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/">Find the triplet that sum to a given value</a> |      |
+| <a href="https://www.geeksforgeeks.org/trapping-rain-water/">Trapping Rain water problem</a> |      |
+| <a href="https://www.geeksforgeeks.org/chocolate-distribution-problem/">Chocolate Distribution problem</a> |      |
+| <a href="https://www.geeksforgeeks.org/minimum-length-subarray-sum-greater-given-value/">Smallest Subarray with sum greater than a given value</a> |      |
+| <a href="https://www.geeksforgeeks.org/three-way-partitioning-of-an-array-around-a-given-range/">Three way partitioning of an array around a given value</a> |      |
+| <a href="https://www.geeksforgeeks.org/minimum-swaps-required-bring-elements-less-equal-k-together/">Minimum swaps required bring elements less equal K together</a> |      |
+| <a href="https://www.geeksforgeeks.org/check-if-all-elements-of-the-array-are-palindrome-or-not/">Minimum no. of operations required to make an array palindrome</a> |      |
+| <a href="https://www.geeksforgeeks.org/median-of-two-sorted-arrays/">Median of 2 sorted arrays of equal size</a> |      |
+| <a href="https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/">Median of 2 sorted arrays of different size</a> |      |
 
