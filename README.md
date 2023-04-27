@@ -1,4 +1,6 @@
-# Data Structures and Algorithms (Dsa)
+# Data Structures and Algorithms (Dsa
+
+<img src="https://img.shields.io/badge/Arrays-red" alt="Arrays"> <img src="https://img.shields.io/badge/Matrix-green" alt="Matrix"> <img src="https://img.shields.io/badge/Strings-blue" alt="Strings"> <img src="https://img.shields.io/badge/Searching and Sorting-yellow" alt="Searching and Sorting"> <img src="https://img.shields.io/badge/Linked List-purple" alt="Linked List"> <img src="https://img.shields.io/badge/Bit Manipulation-orange" alt="Bit Manipulation"> <img src="https://img.shields.io/badge/Greedy-darkgreen" alt="Greedy"> <img src="https://img.shields.io/badge/Backtracking-red" alt="Backtracking"> <img src="https://img.shields.io/badge/Dynamic Programming-yellowgreen" alt="Dynamic Programming"> <img src="https://img.shields.io/badge/Stacks and Queues-darkblue" alt="Stacks and Queues"> <img src="https://img.shields.io/badge/Binary Trees-pink" alt="Binary Trees"> <img src="https://img.shields.io/badge/Binary Search Tree-blue" alt="Binary Search Tree"> <img src="https://img.shields.io/badge/Graphs-green" alt="Graphs"> <img src="https://img.shields.io/badge/Heap-brown" alt="Heap"> <img src="https://img.shields.io/badge/Trie-blueviolet" alt="Trie">
 
 <img src="images/banner.png" alt="Banner">
 
