@@ -1,33 +1,35 @@
-# Data Structures and Algorithms
+# Data Structures and Algorithms (Dsa)
 
 <img src="images/banner.png" alt="Banner">
 
-Welcome to the Data Structures and Algorithms (DSA) 
-repository!
 This repository contains the Kotlin solutions with unit tests
-for Data Structures and Algorithms provided by <a href='https://github.com/loveBabbar' >Love Babbar</a>.
+for Data Structures and Algorithms. This 450 coding questions provided by <a href='https://github.com/loveBabbar' >Love Babbar</a>.
 
 ## Introduction
-Data structures and algorithms are two essential concepts in computer science and programming.
-Data structures refer to the way we organize and store data in a computer program. They are used to manage and manipulate data efficiently. Some common data structures include arrays, linked lists, stacks, queues, trees, and graphs.
-Algorithms, on the other hand, are a set of steps or instructions that are followed to solve a problem. Algorithms can range from simple to complex, depending on the problem being solved. Some common algorithms include searching, sorting, and traversal algorithms. By choosing the right data structure and algorithm, programmers can write efficient and effective code that solves complex problems.
+✅ Data structures and algorithms are two essential concepts in computer science and programming.
+
+✅ Data structures refer to the way we organize and store data in a computer program. They are used to manage and manipulate data efficiently. Some common data structures include arrays, linked lists, stacks, queues, trees, and graphs.
+
+✅ Algorithms, on the other hand, are a set of steps or instructions that are followed to solve a problem. Algorithms can range from simple to complex, depending on the problem being solved. Some common algorithms include searching, sorting, and traversal algorithms. 
+
+✅ By choosing the right data structure and algorithm, programmers can write efficient and effective code that solves complex problems.
 
 ## Table of contents
-- Arrays
-- Matrix
-- Strings
-- Searching and Sorting
-- Linked List
-- Bit Manipulation
-- Greedy
-- Backtracking
-- Dynamic Programming
-- Stacks and Queues
-- Binary Trees
-- Binary Search Tree
-- Graphs
-- Heap
-- Trie
+- [Arrays](https://github.com/alidehkhodaei/dsa/tree/main/src/main/kotlin/array)
+- [Matrix](https://github.com/alidehkhodaei/dsa/tree/main/src/main/kotlin/matrix)
+- [Strings](https://github.com/alidehkhodaei/dsa/tree/main/src/main/kotlin/strings)
+- [Searching and Sorting](https://github.com/alidehkhodaei/dsa/tree/main/src/main/kotlin/searchingandsorting)
+- [Linked List](https://github.com/alidehkhodaei/dsa/tree/main/src/main/kotlin/linkedlist)
+- [Bit Manipulation](https://github.com/alidehkhodaei/dsa/tree/main/src/main/kotlin/bitmanipulation)
+- [Greedy](https://github.com/alidehkhodaei/dsa/tree/main/src/main/kotlin/greedy)
+- [Backtracking](https://github.com/alidehkhodaei/dsa/tree/main/src/main/kotlin/backtracking)
+- [Dynamic Programming](https://github.com/alidehkhodaei/dsa/tree/main/src/main/kotlin/dynamicprogramming)
+- [Stacks and Queues](https://github.com/alidehkhodaei/dsa/tree/main/src/main/kotlin/stacksandqueues)
+- [Binary Trees](https://github.com/alidehkhodaei/dsa/tree/main/src/main/kotlin/binarytrees)
+- [Binary Search Tree](https://github.com/alidehkhodaei/dsa/tree/main/src/main/kotlin/binarysearchtree)
+- [Graphs](https://github.com/alidehkhodaei/dsa/tree/main/src/main/kotlin/graphs)
+- [Heap](https://github.com/alidehkhodaei/dsa/tree/main/src/main/kotlin/heap)
+- [Trie](https://github.com/alidehkhodaei/dsa/tree/main/src/main/kotlin/trie)
  
 ## Usefull resource
 - <a href="https://www.geeksforgeeks.org">Geeksforgeeks</a>
@@ -35,6 +37,9 @@ Algorithms, on the other hand, are a set of steps or instructions that are follo
 - <a href="https://visualgo.net" >visualising dsa through animation</a>
 - <a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html" >Data Structure Visualizations</a>
 - <a href="https://www.learnerslesson.com/Data-Structures-and-Algorithms/Algorithm.htm" >Learners lesson</a>
+- <a href="https://www.hackerearth.com">Hackerearth</a>
+- <a href="https://www.hackerrank.com">Hackerrank</a>
+- <a href="https://www.leetcode.com">Leetcode</a>
 
 ## Contributing
 1. Fork the repository
