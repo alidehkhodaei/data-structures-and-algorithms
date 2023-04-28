@@ -6,7 +6,8 @@
 
 This repository contains the Kotlin solutions with unit tests
 for Data Structures and Algorithms. This 450 coding questions provided by <a href='https://github.com/loveBabbar' >Love Babbar</a>.
-If there is any issue, please open an issue.
+
+❌ If you notice any mistakes in the questions or solutions, please open an issue and note that the existing solutions may not be the best ones. Therefore, feel free to suggest better solutions with your contribution.
 
 ## Introduction
 ✅ Data structures and algorithms are two essential concepts in computer science and programming.
