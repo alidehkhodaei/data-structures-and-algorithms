@@ -44,6 +44,7 @@ for Data Structures and Algorithms. This 450 coding questions provided by <a hre
 - <a href="https://www.hackerearth.com">Hackerearth</a>
 - <a href="https://www.hackerrank.com">Hackerrank</a>
 - <a href="https://www.leetcode.com">Leetcode</a>
+- <a href="https://algorithm-visualizer.org">Algorithm visualizer</a>
 
 ## Contributing
 1. Fork the repository.
