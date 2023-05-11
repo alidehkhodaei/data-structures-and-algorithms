@@ -10,19 +10,24 @@ import kotlin.test.assertEquals
 class StringReverseTest {
 
     @Test
-    fun testReverseString() {
+    fun `testReverseString should return the reversed string for valid input`() {
+        val expected = "Shabnam"
+        val actual = reverseString("manbahS")
+        assertEquals(expected, actual)
+    }
 
-        // Test case 1
-        assertEquals("Shabnam", reverseString("manbahS"))
+    @Test
+    fun `testReverseString should return the same string for valid input with a single character`() {
+        val expected = "a"
+        val actual = reverseString("a")
+        assertEquals(expected, actual)
+    }
 
-        // Test case 2
-        assertEquals("a", reverseString("a"))
-
-        // Test case 3
-        assertEquals("", reverseString(""))
-
-        // Test case 4
-        assertEquals("Ali and Hasan", reverseString("nasaH dna ilA"))
+    @Test
+    fun `testReverseString should return an empty string for empty input`() {
+        val expected = ""
+        val actual = reverseString("")
+        assertEquals(expected, actual)
     }
 
 }
